@@ -1,0 +1,26 @@
+SourceRowID,Material,MaterialUnitCost
+1,Concrete,120
+1,Steel,300
+2,Concrete,120
+2,Steel,300
+3,Steel Beams,500
+4,Rebar,200
+4,Concrete,110
+5,Rebar,200
+5,Concrete,110
+6,Bricks,2
+6,Cement,15
+7,Bricks,2
+7,Cement,15
+8,Steel Beams,500
+8,Glass Panels,250
+9,Glass Panels,250
+10,Concrete,130
+10,Tiles,20
+11,Concrete,130
+11,Tiles,20
+12,Concrete,115
+13,Concrete,115
+14,Steel Beams,520
+14,Concrete,140
+15,Rebar,210

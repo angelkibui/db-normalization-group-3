@@ -1,0 +1,31 @@
+SourceRowID,WorkerName,WorkerPhone,Certification
+1,Mike Ross,617-555-3001,OSHA
+1,Mike Ross,617-555-3001,First Aid
+2,Rachel Zane,617-555-3002,OSHA
+2,Rachel Zane,617-555-3002,Electrical License
+3,Harvey Specter,617-555-3003,PMP
+3,Harvey Specter,617-555-3003,OSHA
+4,Mike Ross,617-555-3001,OSHA
+4,Mike Ross,617-555-3001,First Aid
+5,Tom Hardy,617-555-3004,OSHA
+5,Tom Hardy,617-555-3004,Welding Cert
+6,Rachel Zane,617-555-3002,Electrical License
+6,Rachel Zane,617-555-3002,First Aid
+7,Tom Hardy,617-555-3004,Welding Cert
+7,Tom Hardy,617-555-3004,OSHA
+8,Mike Ross,617-555-3001,OSHA
+8,Mike Ross,617-555-3001,First Aid
+9,Louis Litt,617-555-3005,MBA
+9,Louis Litt,617-555-3005,First Aid
+10,Harvey Specter,617-555-3003,PMP
+10,Harvey Specter,617-555-3003,OSHA
+11,Rachel Zane,617-555-3002,Electrical License
+11,Rachel Zane,617-555-3002,OSHA
+12,Tom Hardy,617-555-3004,Welding Cert
+12,Tom Hardy,617-555-3004,OSHA
+13,Mike Ross,617-555-3001,OSHA
+13,Mike Ross,617-555-3001,First Aid
+14,Louis Litt,617-555-3005,MBA
+14,Louis Litt,617-555-3005,OSHA
+15,Harvey Specter,617-555-3003,PMP
+15,Harvey Specter,617-555-3003,OSHA

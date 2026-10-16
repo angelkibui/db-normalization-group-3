@@ -1,0 +1,23 @@
+SourceRowID,SupplierName,SupplierCity,SupplierPhone
+1,BuildPro Supplies,Boston,617-555-9000
+1,BuildPro Supplies,Boston,617-555-9001
+2,BuildPro Supplies,Boston,617-555-9000
+2,BuildPro Supplies,Boston,617-555-9001
+3,SteelWorks Inc,Chicago,312-555-8000
+3,SteelWorks Inc,Chicago,312-555-8001
+4,Oceanic Materials,Miami,305-555-7000
+5,Oceanic Materials,Miami,305-555-7000
+6,BuildPro Supplies,Boston,617-555-9000
+6,BuildPro Supplies,Boston,617-555-9001
+7,BuildPro Supplies,Boston,617-555-9000
+7,BuildPro Supplies,Boston,617-555-9001
+8,SteelWorks Inc,Chicago,312-555-8000
+8,SteelWorks Inc,Chicago,312-555-8001
+9,Global Glass Co,Seattle,206-555-6000
+10,Pacific Materials,San Diego,619-555-6500
+11,Pacific Materials,San Diego,619-555-6500
+12,Southern Concrete,Atlanta,404-555-6600
+13,Southern Concrete,Atlanta,404-555-6600
+14,SteelWorks Inc,Chicago,312-555-8000
+14,SteelWorks Inc,Chicago,312-555-8001
+15,Oceanic Materials,Miami,305-555-7000

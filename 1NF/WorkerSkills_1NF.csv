@@ -1,0 +1,31 @@
+SourceRowID,WorkerName,WorkerPhone,Skill
+1,Mike Ross,617-555-3001,Carpentry
+1,Mike Ross,617-555-3001,Framing
+2,Rachel Zane,617-555-3002,Electrical
+2,Rachel Zane,617-555-3002,Wiring
+3,Harvey Specter,617-555-3003,Project Management
+3,Harvey Specter,617-555-3003,Planning
+4,Mike Ross,617-555-3001,Carpentry
+4,Mike Ross,617-555-3001,Concrete
+5,Tom Hardy,617-555-3004,Welding
+5,Tom Hardy,617-555-3004,Steel Fixing
+6,Rachel Zane,617-555-3002,Electrical
+6,Rachel Zane,617-555-3002,Inspection
+7,Tom Hardy,617-555-3004,Welding
+7,Tom Hardy,617-555-3004,Carpentry
+8,Mike Ross,617-555-3001,Concrete
+8,Mike Ross,617-555-3001,Framing
+9,Louis Litt,617-555-3005,Accounting
+9,Louis Litt,617-555-3005,Procurement
+10,Harvey Specter,617-555-3003,Planning
+10,Harvey Specter,617-555-3003,Management
+11,Rachel Zane,617-555-3002,Wiring
+11,Rachel Zane,617-555-3002,Inspection
+12,Tom Hardy,617-555-3004,Welding
+12,Tom Hardy,617-555-3004,Concrete
+13,Mike Ross,617-555-3001,Framing
+13,Mike Ross,617-555-3001,Carpentry
+14,Louis Litt,617-555-3005,Procurement
+14,Louis Litt,617-555-3005,Accounting
+15,Harvey Specter,617-555-3003,Management
+15,Harvey Specter,617-555-3003,Planning
