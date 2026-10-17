@@ -15,3 +15,5 @@ Read **normalization_explanation.docx** for examples, keys, relationships and as
 The 3NF, BCNF and 4NF folders each contain 12 CSVs. Their data and structures match because the 3NF design already meets the later requirements under the rules explained in the document. Skills, certifications and supplier phones were separated in the earlier stages.
 
 The original 1NF and 2NF files are unchanged. File names keep the existing TableName_Stage.csv pattern.
+
+Explanation Document: /NORMALIZATION EXPLANATION.pdf
