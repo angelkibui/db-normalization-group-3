@@ -16,4 +16,4 @@ The 3NF, BCNF and 4NF folders each contain 12 CSVs. Their data and structures ma
 
 The original 1NF and 2NF files are unchanged. File names keep the existing TableName_Stage.csv pattern.
 
-Explanation Document: /NORMALIZATION EXPLANATION.pdf
+Explanation Document: [NORMALIZATION EXPLANATION.pdf](NORMALIZATION%20EXPLANATION.pdf)
